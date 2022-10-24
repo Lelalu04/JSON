@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Prey for the Devil",
+        "createYear": 2022,
+        "rating": {
+            "voteCount": 62,
+            "voiceAverage":7.3
+        },
+        "popularity": 103,
+        "info": {
+            "director": ["Daniel Stamm"],
+            "writers": ["Robert Zappia", "Todd R. Jones", "Earl Richey Jones"],
+            "stars": ["Jacqueline Byers", "Virginia Madsen", "Colin Salmon"],
+            "description": "A nun prepares to perform an exorcism and comes face to face with a demonic force with mysterious ties to her past."
+        }
+    },
+    {
+        "name": "Call Jane",
+        "createYear": 2022,
+        "rating": {
+            "voteCount": 500,
+            "voiceAverage":7
+        },
+        "popularity": 518,
+        "info": {
+            "director": ["Phyllis Nagy"],
+            "writers": ["Hayley Schore", "Roshan Sethi"],
+            "stars": ["Elizabeth Banks", "Sigourney Weaver", "Chris Messina"],
+            "description": "A married woman with an unwanted pregnancy lives in a time in America where she can't get a legal abortion and works with a group of suburban women to find help."
+        }
+    },
+    {
+        "name": "Goodfellas",
+        "createYear": 1990,
+        "rating": {
+            "voteCount": 1100000,
+            "voiceAverage":8.7
+        },
+        "popularity": 297,
+        "info": {
+            "director": ["Martin Scorsese"],
+            "writers": ["Nicholas Pileggi", "Martin Scorsese"],
+            "stars": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+            "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+        }
+    },
+    {
+        "name": "Interstellar",
+        "createYear": 2014,
+        "rating": {
+            "voteCount": 1800000,
+            "voiceAverage":8.6
+        },
+        "popularity": 126,
+        "info": {
+            "director": ["Christopher Nolan"],
+            "writers": ["Jonathan Nolan", "Christopher Nolan"],
+            "stars": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+        }
+    },
+    {
+        "name": "Parasite",
+        "createYear": 2019,
+        "rating": {
+            "voteCount": 785000,
+            "voiceAverage":8.5
+        },
+        "popularity": 99,
+        "info": {
+            "director": ["Bong Joon Ho"],
+            "writers": ["Bong Joon Ho", "Han Jin-won"],
+            "stars": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+            "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+        }
+    },
+    {
+        "name": "Oldboy",
+        "createYear": 2003,
+        "rating": {
+            "voteCount": 575000,
+            "voiceAverage":8.4
+        },
+        "popularity": 392,
+        "info": {
+            "director": ["Park Chan-wook"],
+            "writers": ["Garon Tsuchiya", "Nobuaki Minegishi"],
+            "stars": ["Choi Min-sik", "Yoo Ji-tae", "Kang Hye-jeong"],
+            "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+        }
+    },
+    {
+        "name": "Avengers: Endgame",
+        "createYear": 2019,
+        "rating": {
+            "voteCount": 1100000,
+            "voiceAverage":8.4
+        },
+        "popularity": 178,
+        "info": {
+            "director": ["Anthony Russo", "Joe Russo"],
+            "writers": ["Christopher Markus", "Stephen McFeely", "Stan Lee"],
+            "stars": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+        }
+    },
+    {
+        "name": "Aladdin",
+        "createYear": 1992,
+        "rating": {
+            "voteCount": 417000,
+            "voiceAverage":8.0
+        },
+        "popularity": 1.415,
+        "info": {
+            "director": ["Ron Clements"],
+            "writers": ["Ron Clements", "John Musker"],
+            "stars": ["Scott Weinger", "Robin Williams", "Linda Larkin"],
+            "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true."
+        }
+    },
+    {
+        "name": "Black Adam",
+        "createYear": 2022,
+        "rating": {
+            "voteCount": 44000,
+            "voiceAverage":7.1
+        },
+        "popularity": 1,
+        "info": {
+            "director": ["Jaume Collet-Serra"],
+            "writers": ["Adam Sztykiel", "Rory Haines", "Sohrab Noshirvani"],
+            "stars": ["Dwayne Johnson", "Aldis Hodge", "Pierce Brosnan"],
+            "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+        }
+    },
+    {
+        "name": "Halloween",
+        "createYear": 2018,
+        "rating": {
+            "voteCount": 153000,
+            "voiceAverage":6.5
+        },
+        "popularity": 36,
+        "info": {
+            "director": ["David Gordon Green"],
+            "writers": ["John Carpenter", "Debra Hill"],
+            "stars": ["Jamie Lee Curtis", "Judy Greer", "Andi Matichak"],
+            "description": "Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago."
+        }
+    }
+]
+
+
